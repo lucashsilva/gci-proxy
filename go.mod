@@ -1,5 +1,7 @@
 module github.com/gcinterceptor/gci-proxy
 
+go 1.14
+
 require (
 	github.com/gcinterceptor/gci-go v0.0.0-20180810200128-8390b3489ca0
 	github.com/klauspost/compress v1.5.0 // indirect
